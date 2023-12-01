@@ -1,7 +1,7 @@
 <h1>Advent of Code</h1>
 
-Link to the event: https://adventofcode.com/2023
-Link to the leaderboard: https://adventofcode.com/2023/leaderboard/private
+Link to the event: https://adventofcode.com/2023 \
+Link to the leaderboard: https://adventofcode.com/2023/leaderboard/private \
 Code for the Roq leaderboard: 3231758-bb48fb88
 
 Fork this repo as a jumping off point for completing the advent of code tasks.
