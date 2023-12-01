@@ -7,9 +7,9 @@ Code for the Roq leaderboard: 3231758-bb48fb88
 Fork this repo as a jumping off point for completing the advent of code tasks.
 
 <h4>Running your code</h4>
-Each day is configured as an nunit test and can be ran using the Test Explorer. <br />
+Each day is configured as an nunit test and can be ran using the Test Explorer. <br /><br />
 You may need to configure the test explorer to pickup the run settings file.
-Open the test explorer > Click the arrow next to the settings cog > Configure run settings > Select Solution Wide run settings file > navigate the popup to the file RunTest.runsettings <br />
-Once configured, you can use the DayExample.cs test and code to see where to get started. <br /> 
-Each day is already created under the 2023 folder, just update the csv files with the test data and your real data.<br />
+Open the test explorer > Click the arrow next to the settings cog > Configure run settings > Select Solution Wide run settings file > navigate the popup to the file RunTest.runsettings <br /><br />
+Once configured, you can use the DayExample.cs test and code to see where to get started. <br /> <br />
+Each day is already created under the 2023 folder, just update the csv files with the test data and your real data.<br /><br />
 Each csv needs to start with the header 'Input'.
